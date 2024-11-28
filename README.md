@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-Creating the React app skeleton and navigating to it's directory
+Creating the React app skeleton and navigating to it's directory.
 ![image](https://github.com/user-attachments/assets/3a05be98-52af-446e-a87e-fd9d7d1713cf)
 
 Initializing it's repository and installing Axios. Once finished creating the app, running it to test using `npm start`.
