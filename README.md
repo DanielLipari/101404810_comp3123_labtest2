@@ -17,3 +17,5 @@
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/3a05be98-52af-446e-a87e-fd9d7d1713cf)
+
